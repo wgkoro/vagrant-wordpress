@@ -26,7 +26,7 @@ config/hosts.txtの中身をそのまま設定してください。
 ### 3.WordPres本体の設置
 
 WordPress一式を公式サイトから落としてきて、解凍したファイルをsourceの中に置きます。  
-ディレクトリは source/wordpress/ファイル一式 となるようにしてください。
+ディレクトリは「source/wordpress/ファイル一式」となるようにしてください。
 
 ### 4.WordPress configのコピー
 
