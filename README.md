@@ -1,4 +1,4 @@
-vagrant-wrodpress
+vagrant-wordpress
 =================
 
 ## 使い方(Mac)
